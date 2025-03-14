@@ -12,7 +12,7 @@ Patients with diabetes are at increased risk of comorbid depression or anxiety, 
 ## Methods
 - **Data Source**: Secure patient messages from individuals with diabetes and comorbid depression or anxiety.
 - **Benchmark Data**: Messages were deidentified and labeled by researchers and psychiatrists.
-- **LLMs Evaluated**: Llama 3.1 8B, Llama 3.1 405B, Gemini Pro 1.5, OpenAI o1, and DeepSeek R1.
+- **LLMs Evaluated**: Llama 3.1 8B, Llama 3.1 405B, Gemini Pro 1.5, Gemini Pro 2.0 Flash Thinking, OpenAI o1, OpenAI o3-mini, and DeepSeek R1.
 - **Approaches**: Zero-shot vs. few-shot learning, binary classification vs. PHQ-4 based classification, with vs. without systemic persona, and temperature adjustments.
 
 ## Results
